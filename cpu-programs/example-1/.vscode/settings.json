@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        ".vscode": true,
+        "build" : true
+    },
+    "files.associations": {
+        "*.asm": "avr",
+        "lib_mcu.h": "c",
+        "lib_vga.h": "c",
+        "stdint.h": "c",
+        "float.h": "c",
+        "stdio.h": "c"
+    }
+}
